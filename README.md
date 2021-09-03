@@ -1,3 +1,5 @@
+Covid-19 Tracker App link : https://covid-tracker-app-56e1c.web.app/
+
 This is a web app built using ReactJS and Open Disease Data API and is hosted on Firebase server.
 
 This app tracks the Covid-19 active and recovered cases and deaths - countrywise on the World Map.
