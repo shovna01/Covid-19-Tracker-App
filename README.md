@@ -1,3 +1,8 @@
+This is a web app built using ReactJS and Open Disease Data API and is hosted on Firebase server
+This app tracks the Covid-19 active and recovered cases and deaths - countrywise on the World Map
+API used : https://disease.sh/v3/covid-19/all
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
